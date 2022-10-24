@@ -6,8 +6,8 @@ function fun (){
 
 }
 //
-let name="DEMET"
-console.log(typeof name);
+let firstName="DEMET"
+console.log(typeof firstName);
 let surname="DALGIC"
 console.log=(typeof surname);
 

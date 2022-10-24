@@ -7,7 +7,7 @@ function hesapla(){
     var s1= Number(sayi1);
     var s2= Number(sayi2);
 
-    if(s1>s2) { document.getElementById("sonuc").innerHTML="birinci sayi olan"+ s1 + "sayısı "+ s2 +"den buyuk.";
+    if(s1>s2) { document.getElementById("sonuc").innerHTML="birinci sayi olan" + s1 + "sayısı "+ s2 +"den buyuk.";
     }
     else 
     if(s2 > s1) { document.getElementById("sonuc").innerHTML = "birinci sayı olan " + s2 + "sayısı "+ s1 + "den buyuktur.";

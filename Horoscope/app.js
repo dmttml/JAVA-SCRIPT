@@ -1,3 +1,7 @@
+/**
+ * We learn which zodiac sign we have by entering the month and day information
+  in the alert box that appears on the screen.
+ */
 let month = prompt("Please enter your birth month");
 let day = Number(prompt("Please enter your birth day"));
 
