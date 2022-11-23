@@ -5,6 +5,7 @@
 let compartmentNumber =Number(prompt("Enter a number from 1 to 10"));
 const MariosCompartment = 4;
 
+
 if(compartmentNumber > 0 && compartmentNumber <4){
     alert("Your guess :" + " "  + compartmentNumber + " " +  "Marios compartment is in a compartment with a larger number.") ;
    }
@@ -14,6 +15,7 @@ if(compartmentNumber > 0 && compartmentNumber <4){
 
   else {
     alert("True compartment")
+    
   } 
 
 
